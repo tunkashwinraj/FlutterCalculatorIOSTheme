@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot 2023-07-28 002614](https://github.com/tunkashwinraj/FlutterCalculatorIOSTheme/assets/84958360/3a7f1bcf-20f1-49f0-8dbb-3ebde9ee25d3)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
